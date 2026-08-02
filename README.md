@@ -19,4 +19,5 @@
 <li>Gosto de Java; ☕​
 <li>Gosto do AfterMotionX; 🌀​
 <li>Gosto do Eclipe [IDE].🌕​
+<li>Gosto de IA's.
 </ul>
